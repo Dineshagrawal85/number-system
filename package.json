@@ -1,6 +1,6 @@
 {
   "name": "number-converter",
-  "version": "1.2.1",
+  "version": "0.1.0",
   "description": "Convert numbers between various number systems ",
   "author": "Dinesh Agrawal <dinesh.agrawal85@gmail.com>",
   "main": "./index.js",
