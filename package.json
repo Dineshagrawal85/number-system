@@ -1,0 +1,21 @@
+{
+  "name": "number-converter",
+  "version": "1.2.1",
+  "description": "Convert numbers between various number systems ",
+  "author": "Dinesh Agrawal <dinesh.agrawal85@gmail.com>",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dineshagrawal85/number-system.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dineshagrawal85/number-system/issues"
+  },
+  "keywords": [
+  ],
+  "devDependencies": {
+  },
+  "license": "MIT",
+  "dependencies": {
+  }
+}
